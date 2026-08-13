@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Knowledge Organization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Graphs as Knowledge Carrier"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Knowledge Retrieval"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Knowledge Integration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fine-tuning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "In-context Learning"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:37:30.299Z",
+    "original_repository": "DEEP-PolyU/Awesome-GraphRAG",
+    "original_repository_sha": "48abc5ab578baffa64c0fb63dbda6a2cb2eb512b",
+    "enhanced_repository": "enhansome/enhansome-Awesome-GraphRAG",
+    "enhanced_repository_description": null,
+    "title": "Awesome-GraphRAG (GraphRAG Survey) with stars"
+  }
+}
