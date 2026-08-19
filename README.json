@@ -1,39 +1,463 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Knowledge Organization"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2025-01-21] We release the GraphRAG survey",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 876000634,
+            "language": null,
+            "last_commit": "2026-06-02T12:52:38Z",
+            "owner": "DEEP-PolyU",
+            "repo": "Awesome-GraphRAG",
+            "stars": 2599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026-01-26] Our LinearRAG for efficient GraphRAG is accepted by ICLR’26.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1083953029,
+            "language": "Python",
+            "last_commit": "2026-07-05T00:55:44Z",
+            "owner": "DEEP-PolyU",
+            "repo": "LinearRAG",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2025-10-27] We release LinearRAG, a relation-free graph construction method for efficient GraphRAG.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1083953029,
+            "language": "Python",
+            "last_commit": "2026-07-05T00:55:44Z",
+            "owner": "DEEP-PolyU",
+            "repo": "LinearRAG",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026-01-26] Our GraphRAG Benchmark is accepted by ICLR’26.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 998658685,
+            "language": "Python",
+            "last_commit": "2026-06-07T02:17:59Z",
+            "owner": "GraphRAG-Bench",
+            "repo": "GraphRAG-Benchmark",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2025-06-06] We release the GraphRAG Benchmark for evaluating GraphRAG models.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 998658685,
+            "language": "Python",
+            "last_commit": "2026-06-07T02:17:59Z",
+            "owner": "GraphRAG-Bench",
+            "repo": "GraphRAG-Benchmark",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2025-11-08] Our LogicRAG is accepted by AAAI'26.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961855292,
+            "language": "Python",
+            "last_commit": "2026-07-19T10:34:26Z",
+            "owner": "chensyCN",
+            "repo": "LogicRAG",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026-05-17] Our MemGraphRAG for memory-enhanced RAG is accepted by KDD'26.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1147646222,
+            "language": "Python",
+            "last_commit": "2026-06-20T23:54:03Z",
+            "owner": "XMUDeepLIT",
+            "repo": "MemGraphRAG",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026-04-07] Our LegalGraphRAG for reliable legal reasoning is accepted by ACL'26.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1182983194,
+            "language": "Python",
+            "last_commit": "2026-08-03T01:04:43Z",
+            "owner": "XMUDeepLIT",
+            "repo": "LegalGraphRAG",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026-04-07] Our LogicPoison, a GraphRAG attack model, is accepted by ACL'26.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1196060213,
+            "language": "Python",
+            "last_commit": "2026-06-27T11:55:11Z",
+            "owner": "Jord8061",
+            "repo": "logicPoison",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026-04-07] Our BAPO for reliable agentic search is accepted by ACL'26.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1134660882,
+            "language": "Python",
+            "last_commit": "2026-04-23T01:32:26Z",
+            "owner": "Liushiyu-0709",
+            "repo": "BAPO-Reliable-Search",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026-04-07] Our ProbeRAG for RAG faithfulness is accepted by ACL'26.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1063177719,
+            "language": "Python",
+            "last_commit": "2026-04-23T01:25:36Z",
+            "owner": "LinfengGao",
+            "repo": "ProbeRAG",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "🎉 News"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Graphs as Knowledge Carrier"
+      "description": "To explore the applications of LLMs on graph tasks, we recommend the following repositories:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-Graph-LLM",
+          "description": "by Xiaoxin He from NUS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 649635713,
+            "language": null,
+            "last_commit": "2025-11-05T13:18:47Z",
+            "owner": "XiaoxinHe",
+            "repo": "Awesome-Graph-LLM",
+            "stars": 2447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-LLMs-in-Graph-tasks",
+          "description": "by Yuhan Li from HKUST(GZ).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 720092821,
+            "language": null,
+            "last_commit": "2025-03-21T06:59:56Z",
+            "owner": "yhLeeee",
+            "repo": "Awesome-LLMs-in-Graph-tasks",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Graph-Prompt",
+          "description": ", created by Xixi Wu from CUHK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666052529,
+            "language": null,
+            "last_commit": "2025-05-15T09:59:33Z",
+            "owner": "WxxShirley",
+            "repo": "Awesome-Graph-Prompt",
+            "stars": 424
+          }
+        }
+      ],
+      "title": "📚 Related Survey Papers"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Knowledge Retrieval"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Knowledge Integration"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Fine-tuning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "In-context Learning"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 866513204,
+            "language": "Python",
+            "last_commit": "2026-08-19T07:01:48Z",
+            "owner": "HKUDS",
+            "repo": "LightRAG",
+            "stars": 38979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Microsoft-GraphRAG: A modular graph-based Retrieval-Augmented Generation (RAG) system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 778431525,
+            "language": "Python",
+            "last_commit": "2026-08-18T21:00:20Z",
+            "owner": "microsoft",
+            "repo": "graphrag",
+            "stars": 35575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Cognee: Open-source memory engine that turns data into knowledge graphs via an ECL pipeline, combining graph and vector retrieval for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679343504,
+            "language": "Python",
+            "last_commit": "2026-08-19T11:41:21Z",
+            "owner": "topoteretes",
+            "repo": "cognee",
+            "stars": 30112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Graphiti: Build Real-Time Knowledge Graphs for AI Agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 840056306,
+            "language": "Python",
+            "last_commit": "2026-08-18T16:24:04Z",
+            "owner": "getzep",
+            "repo": "graphiti",
+            "stars": 30085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Semantica: an open-source, production-ready semantic layer and GraphRAG framework that sits between raw corpora and LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1008304614,
+            "language": "Python",
+            "last_commit": "2026-08-19T12:06:02Z",
+            "owner": "semantica-agi",
+            "repo": "semantica",
+            "stars": 9361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Code-Graph-RAG: A graph-based RAG system that analyzes multi-language codebases using Tree-sitter, builds knowledge graphs, and enables natural language querying and editing via MCP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1003043071,
+            "language": "Python",
+            "last_commit": "2026-08-19T11:59:47Z",
+            "owner": "vitali87",
+            "repo": "code-graph-rag",
+            "stars": 4658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Nano-GraphRAG: A simple, easy-to-hack GraphRAG implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 833512367,
+            "language": "Python",
+            "last_commit": "2026-01-27T07:50:55Z",
+            "owner": "gusye1234",
+            "repo": "nano-graphrag",
+            "stars": 3968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Fast GraphRAG: RAG that intelligently adapts to your use case, data, and queries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 880986730,
+            "language": "Python",
+            "last_commit": "2025-11-01T20:45:25Z",
+            "owner": "circlemind-ai",
+            "repo": "fast-graphrag",
+            "stars": 3845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "WFGY Problem Map: a specialized toolkit that defines 16 recurring failure modes that show up in RAG and LLM pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 996124831,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-19T06:48:05Z",
+            "owner": "onestardao",
+            "repo": "WFGY",
+            "stars": 1780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "DIGIMON: A unified and modular graph-based RAG framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 886670908,
+            "language": "Python",
+            "last_commit": "2025-07-01T17:41:28Z",
+            "owner": "JayLZhou",
+            "repo": "GraphRAG",
+            "stars": 1537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 656181752,
+            "language": "Python",
+            "last_commit": "2026-05-02T05:01:36Z",
+            "owner": "apecloud",
+            "repo": "ApeRAG",
+            "stars": 1299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "GraphRAG-SDK: a specialized toolkit for building GraphRAG systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 748030359,
+            "language": "Python",
+            "last_commit": "2026-08-18T13:59:37Z",
+            "owner": "FalkorDB",
+            "repo": "GraphRAG-SDK",
+            "stars": 989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Graph RAG pipeline that runs locally with ollama and has full source attribution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1051546963,
+            "language": "Python",
+            "last_commit": "2026-08-19T06:28:01Z",
+            "owner": "bibinprathap",
+            "repo": "VeritasGraph",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Agentic-RAG: A clean and extensible agentic RAG system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961855292,
+            "language": "Python",
+            "last_commit": "2026-07-19T10:34:26Z",
+            "owner": "chensyCN",
+            "repo": "LogicRAG",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "HuixiangDou2: A Robustly Optimized GraphRAG Approach",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 905143736,
+            "language": "Python",
+            "last_commit": "2025-12-12T03:46:36Z",
+            "owner": "tpoisonooo",
+            "repo": "ROGRAG",
+            "stars": 201
+          }
+        }
+      ],
+      "title": "💻 Open-source Project"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:05:54.004Z",
+    "last_updated": "2026-08-19T12:10:08.698Z",
     "original_repository": "DEEP-PolyU/Awesome-GraphRAG",
+    "original_repository_id": 876000634,
     "original_repository_sha": "48abc5ab578baffa64c0fb63dbda6a2cb2eb512b",
     "enhanced_repository": "enhansome/enhansome-Awesome-GraphRAG",
     "enhanced_repository_description": null,
