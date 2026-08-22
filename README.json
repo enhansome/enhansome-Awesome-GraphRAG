@@ -15,7 +15,7 @@
             "last_commit": "2026-06-02T12:52:38Z",
             "owner": "DEEP-PolyU",
             "repo": "Awesome-GraphRAG",
-            "stars": 2601
+            "stars": 2604
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-05T00:55:44Z",
             "owner": "DEEP-PolyU",
             "repo": "LinearRAG",
-            "stars": 534
+            "stars": 536
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-05T00:55:44Z",
             "owner": "DEEP-PolyU",
             "repo": "LinearRAG",
-            "stars": 534
+            "stars": 536
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-06-20T23:54:03Z",
             "owner": "XMUDeepLIT",
             "repo": "MemGraphRAG",
-            "stars": 197
+            "stars": 201
           }
         },
         {
@@ -234,10 +234,10 @@
             "archived": false,
             "id": 866513204,
             "language": "Python",
-            "last_commit": "2026-08-21T03:29:43Z",
+            "last_commit": "2026-08-22T13:21:32Z",
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39052
+            "stars": 39090
           }
         },
         {
@@ -249,25 +249,10 @@
             "archived": false,
             "id": 778431525,
             "language": "Python",
-            "last_commit": "2026-08-19T15:22:39Z",
+            "last_commit": "2026-08-21T15:23:30Z",
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 35612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Cognee: Open-source memory engine that turns data into knowledge graphs via an ECL pipeline, combining graph and vector retrieval for AI agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 679343504,
-            "language": "Python",
-            "last_commit": "2026-08-21T14:00:20Z",
-            "owner": "topoteretes",
-            "repo": "cognee",
-            "stars": 30167
+            "stars": 35626
           }
         },
         {
@@ -282,7 +267,22 @@
             "last_commit": "2026-08-21T01:52:20Z",
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 30161
+            "stars": 30192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Cognee: Open-source memory engine that turns data into knowledge graphs via an ECL pipeline, combining graph and vector retrieval for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679343504,
+            "language": "Python",
+            "last_commit": "2026-08-22T13:21:08Z",
+            "owner": "topoteretes",
+            "repo": "cognee",
+            "stars": 30179
           }
         },
         {
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 1008304614,
             "language": "Python",
-            "last_commit": "2026-08-21T13:51:12Z",
+            "last_commit": "2026-08-22T12:56:10Z",
             "owner": "semantica-agi",
             "repo": "semantica",
-            "stars": 10006
+            "stars": 10195
           }
         },
         {
@@ -309,10 +309,10 @@
             "archived": false,
             "id": 1003043071,
             "language": "Python",
-            "last_commit": "2026-08-21T13:55:49Z",
+            "last_commit": "2026-08-22T13:14:23Z",
             "owner": "vitali87",
             "repo": "code-graph-rag",
-            "stars": 4769
+            "stars": 4776
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-01-27T07:50:55Z",
             "owner": "gusye1234",
             "repo": "nano-graphrag",
-            "stars": 3970
+            "stars": 3971
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2025-11-01T20:45:25Z",
             "owner": "circlemind-ai",
             "repo": "fast-graphrag",
-            "stars": 3846
+            "stars": 3847
           }
         },
         {
@@ -354,7 +354,7 @@
             "archived": false,
             "id": 996124831,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T06:51:31Z",
+            "last_commit": "2026-08-22T06:42:41Z",
             "owner": "onestardao",
             "repo": "WFGY",
             "stars": 1781
@@ -387,7 +387,7 @@
             "last_commit": "2026-05-02T05:01:36Z",
             "owner": "apecloud",
             "repo": "ApeRAG",
-            "stars": 1302
+            "stars": 1303
           }
         },
         {
@@ -399,10 +399,10 @@
             "archived": false,
             "id": 748030359,
             "language": "Python",
-            "last_commit": "2026-08-19T13:55:59Z",
+            "last_commit": "2026-08-21T21:32:28Z",
             "owner": "FalkorDB",
             "repo": "GraphRAG-SDK",
-            "stars": 990
+            "stars": 991
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-20T03:25:57Z",
             "owner": "bibinprathap",
             "repo": "VeritasGraph",
-            "stars": 312
+            "stars": 313
           }
         },
         {
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:06:41.734Z",
+    "last_updated": "2026-08-22T13:52:04.648Z",
     "original_repository": "DEEP-PolyU/Awesome-GraphRAG",
     "original_repository_id": 876000634,
     "original_repository_sha": "48abc5ab578baffa64c0fb63dbda6a2cb2eb512b",
