@@ -15,13 +15,13 @@
             "last_commit": "2026-06-02T12:52:38Z",
             "owner": "DEEP-PolyU",
             "repo": "Awesome-GraphRAG",
-            "stars": 2605
+            "stars": 2608
           }
         },
         {
           "node_type": "item",
-          "title": "[2026-01-26] Our LinearRAG for efficient GraphRAG is accepted by ICLR’26.",
-          "description": null,
+          "title": "[2026-01-26] Our LinearRAG",
+          "description": "for efficient GraphRAG is accepted by ICLR’26.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,13 +30,13 @@
             "last_commit": "2026-07-05T00:55:44Z",
             "owner": "DEEP-PolyU",
             "repo": "LinearRAG",
-            "stars": 537
+            "stars": 538
           }
         },
         {
           "node_type": "item",
-          "title": "[2025-10-27] We release LinearRAG, a relation-free graph construction method for efficient GraphRAG.",
-          "description": null,
+          "title": "[2025-10-27] We release LinearRAG",
+          "description": ", a relation-free graph construction method for efficient GraphRAG.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -45,13 +45,13 @@
             "last_commit": "2026-07-05T00:55:44Z",
             "owner": "DEEP-PolyU",
             "repo": "LinearRAG",
-            "stars": 537
+            "stars": 538
           }
         },
         {
           "node_type": "item",
-          "title": "[2026-01-26] Our GraphRAG Benchmark is accepted by ICLR’26.",
-          "description": null,
+          "title": "[2026-01-26] Our GraphRAG Benchmark",
+          "description": "is accepted by ICLR’26.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "[2025-06-06] We release the GraphRAG Benchmark for evaluating GraphRAG models.",
-          "description": null,
+          "title": "[2025-06-06] We release the GraphRAG Benchmark",
+          "description": "for evaluating GraphRAG models.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "[2025-11-08] Our LogicRAG is accepted by AAAI'26.",
-          "description": null,
+          "title": "[2025-11-08] Our LogicRAG",
+          "description": "is accepted by AAAI'26.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "[2026-05-17] Our MemGraphRAG for memory-enhanced RAG is accepted by KDD'26.",
-          "description": null,
+          "title": "[2026-05-17] Our MemGraphRAG",
+          "description": "for memory-enhanced RAG is accepted by KDD'26.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "[2026-04-07] Our LegalGraphRAG for reliable legal reasoning is accepted by ACL'26.",
-          "description": null,
+          "title": "[2026-04-07] Our LegalGraphRAG",
+          "description": "for reliable legal reasoning is accepted by ACL'26.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -120,19 +120,19 @@
             "last_commit": "2026-08-03T01:04:43Z",
             "owner": "XMUDeepLIT",
             "repo": "LegalGraphRAG",
-            "stars": 51
+            "stars": 53
           }
         },
         {
           "node_type": "item",
-          "title": "[2026-04-07] Our LogicPoison, a GraphRAG attack model, is accepted by ACL'26.",
-          "description": null,
+          "title": "[2026-04-07] Our LogicPoison",
+          "description": ", a GraphRAG attack model, is accepted by ACL'26.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1196060213,
             "language": "Python",
-            "last_commit": "2026-06-27T11:55:11Z",
+            "last_commit": "2026-08-24T11:59:58Z",
             "owner": "Jord8061",
             "repo": "logicPoison",
             "stars": 36
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "[2026-04-07] Our BAPO for reliable agentic search is accepted by ACL'26.",
-          "description": null,
+          "title": "[2026-04-07] Our BAPO",
+          "description": "for reliable agentic search is accepted by ACL'26.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "[2026-04-07] Our ProbeRAG for RAG faithfulness is accepted by ACL'26.",
-          "description": null,
+          "title": "[2026-04-07] Our ProbeRAG",
+          "description": "for RAG faithfulness is accepted by ACL'26.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -186,7 +186,7 @@
             "last_commit": "2025-11-05T13:18:47Z",
             "owner": "XiaoxinHe",
             "repo": "Awesome-Graph-LLM",
-            "stars": 2447
+            "stars": 2446
           }
         },
         {
@@ -227,37 +227,268 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "GraphRAG-Bench",
+          "description": "GraphRAG evaluation [arXiv 2025] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 998658685,
+            "language": "Python",
+            "last_commit": "2026-06-07T02:17:59Z",
+            "owner": "GraphRAG-Bench",
+            "repo": "GraphRAG-Benchmark",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIGIMON",
+          "description": "Large-scale graphRAG [arXiv 2025] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 886670908,
+            "language": "Python",
+            "last_commit": "2025-07-01T17:41:28Z",
+            "owner": "JayLZhou",
+            "repo": "GraphRAG",
+            "stars": 1538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PolyG",
+          "description": "GraphRAG evaluation [arXiv 2025] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 905368086,
+            "language": "Python",
+            "last_commit": "2026-04-06T10:29:19Z",
+            "owner": "Liu-rj",
+            "repo": "PolyG",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleQuestion",
+          "description": "Simple Question Answering [arXiv 2015] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83211301,
+            "language": "Python",
+            "last_commit": "2016-05-17T16:32:28Z",
+            "owner": "Jerryzhao-z",
+            "repo": "simple-question-answering-with-memory-networks",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multihop-RAG",
+          "description": "Multi-hop Reasoning [COLING 2024] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 747052840,
+            "language": "Python",
+            "last_commit": "2026-07-17T03:54:37Z",
+            "owner": "yixuantt",
+            "repo": "MultiHop-RAG",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaQA",
+          "description": "Multi-hop Reasoning [AAAI 2018] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120158781,
+            "language": null,
+            "last_commit": "2021-10-10T22:52:59Z",
+            "owner": "yuyuz",
+            "repo": "MetaQA",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaQA-3",
+          "description": "Multi-hop Reasoning [AAAI 2018] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120158781,
+            "language": null,
+            "last_commit": "2021-10-10T22:52:59Z",
+            "owner": "yuyuz",
+            "repo": "MetaQA",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CURD",
+          "description": "Large-scale Complex QA [arXiv 2024] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 748554597,
+            "language": "Python",
+            "last_commit": "2025-05-20T08:38:28Z",
+            "owner": "IAAR-Shanghai",
+            "repo": "CRUD_RAG",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KQAPro",
+          "description": "Large-scale Complex QA [ACL 2022] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 241786879,
+            "language": "Python",
+            "last_commit": "2024-07-15T12:32:32Z",
+            "owner": "shijx12",
+            "repo": "KQAPro_Baselines",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LC-QuAD",
+          "description": "Large-scale Complex QA [ISWC 2017] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60763703,
+            "language": null,
+            "last_commit": "2023-09-05T14:32:34Z",
+            "owner": "AskNowQA",
+            "repo": "LC-QuAD",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UltraDomain",
+          "description": "Domain-specific QA [arXiv 2024] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 851973702,
+            "language": "Python",
+            "last_commit": "2025-09-11T08:51:14Z",
+            "owner": "qhjqhj00",
+            "repo": "MemoRAG",
+            "stars": 2265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TutorQA",
+          "description": "Domain-specific QA [arXiv 2024] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 757240379,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-10T04:40:47Z",
+            "owner": "IreneZihuiLi",
+            "repo": "CGPrompt",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FACTKG",
+          "description": "Domain-specific QA [ACL 2023] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 637812837,
+            "language": "Python",
+            "last_commit": "2025-04-22T06:05:24Z",
+            "owner": "jiho283",
+            "repo": "FactKG",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mintaka",
+          "description": "Domain-specific QA [ACL 2022] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 533469861,
+            "language": "Python",
+            "last_commit": "2022-10-25T14:20:04Z",
+            "owner": "amazon-science",
+            "repo": "mintaka",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrailQA",
+          "description": "Domain-specific QA [WWW 2021] [Github]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 307486824,
+            "language": "Python",
+            "last_commit": "2025-10-09T16:09:57Z",
+            "owner": "dki-lab",
+            "repo": "GrailQA",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "🏆 Benchmarks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LightRAG",
           "description": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 866513204,
             "language": "Python",
-            "last_commit": "2026-08-23T13:54:04Z",
+            "last_commit": "2026-08-24T06:21:03Z",
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39111
+            "stars": 39137
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "graphrag",
           "description": "Microsoft-GraphRAG: A modular graph-based Retrieval-Augmented Generation (RAG) system",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 778431525,
             "language": "Python",
-            "last_commit": "2026-08-21T15:23:30Z",
+            "last_commit": "2026-08-24T07:34:25Z",
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 35638
+            "stars": 35654
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "graphiti",
           "description": "Graphiti: Build Real-Time Knowledge Graphs for AI Agents.",
           "children": [],
           "repo_info": {
@@ -267,57 +498,57 @@
             "last_commit": "2026-08-21T01:52:20Z",
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 30211
+            "stars": 30257
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cognee",
           "description": "Cognee: Open-source memory engine that turns data into knowledge graphs via an ECL pipeline, combining graph and vector retrieval for AI agents.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 679343504,
             "language": "Python",
-            "last_commit": "2026-08-23T13:46:28Z",
+            "last_commit": "2026-08-24T14:00:00Z",
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 30193
+            "stars": 30221
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "semantica",
           "description": "Semantica: an open-source, production-ready semantic layer and GraphRAG framework that sits between raw corpora and LLMs.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1008304614,
             "language": "Python",
-            "last_commit": "2026-08-23T13:09:02Z",
+            "last_commit": "2026-08-24T11:53:10Z",
             "owner": "semantica-agi",
             "repo": "semantica",
-            "stars": 10395
+            "stars": 10619
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "code-graph-rag",
           "description": "Code-Graph-RAG: A graph-based RAG system that analyzes multi-language codebases using Tree-sitter, builds knowledge graphs, and enables natural language querying and editing via MCP server.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1003043071,
             "language": "Python",
-            "last_commit": "2026-08-23T13:51:38Z",
+            "last_commit": "2026-08-24T13:59:51Z",
             "owner": "vitali87",
             "repo": "code-graph-rag",
-            "stars": 4791
+            "stars": 4806
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "nano-graphrag",
           "description": "Nano-GraphRAG: A simple, easy-to-hack GraphRAG implementation",
           "children": [],
           "repo_info": {
@@ -332,7 +563,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "fast-graphrag",
           "description": "Fast GraphRAG: RAG that intelligently adapts to your use case, data, and queries",
           "children": [],
           "repo_info": {
@@ -347,14 +578,14 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "WFGY",
           "description": "WFGY Problem Map: a specialized toolkit that defines 16 recurring failure modes that show up in RAG and LLM pipelines.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 996124831,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-23T06:44:23Z",
+            "last_commit": "2026-08-24T07:02:30Z",
             "owner": "onestardao",
             "repo": "WFGY",
             "stars": 1781
@@ -362,7 +593,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "GraphRAG",
           "description": "DIGIMON: A unified and modular graph-based RAG framework",
           "children": [],
           "repo_info": {
@@ -377,7 +608,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "ApeRAG",
           "description": "ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment",
           "children": [],
           "repo_info": {
@@ -392,14 +623,14 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "GraphRAG-SDK",
           "description": "GraphRAG-SDK: a specialized toolkit for building GraphRAG systems.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 748030359,
             "language": "Python",
-            "last_commit": "2026-08-23T06:38:40Z",
+            "last_commit": "2026-08-24T13:54:10Z",
             "owner": "FalkorDB",
             "repo": "GraphRAG-SDK",
             "stars": 991
@@ -407,14 +638,14 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "VeritasGraph",
           "description": "Graph RAG pipeline that runs locally with ollama and has full source attribution",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1051546963,
             "language": "Python",
-            "last_commit": "2026-08-22T16:21:26Z",
+            "last_commit": "2026-08-24T05:33:30Z",
             "owner": "bibinprathap",
             "repo": "VeritasGraph",
             "stars": 313
@@ -422,7 +653,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "LogicRAG",
           "description": "Agentic-RAG: A clean and extensible agentic RAG system.",
           "children": [],
           "repo_info": {
@@ -437,7 +668,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "ROGRAG",
           "description": "HuixiangDou2: A Robustly Optimized GraphRAG Approach",
           "children": [],
           "repo_info": {
@@ -455,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:54:05.644Z",
+    "last_updated": "2026-08-24T14:03:01.947Z",
     "original_repository": "DEEP-PolyU/Awesome-GraphRAG",
     "original_repository_id": 876000634,
     "original_repository_sha": "48abc5ab578baffa64c0fb63dbda6a2cb2eb512b",
