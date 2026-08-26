@@ -15,7 +15,7 @@
             "last_commit": "2026-06-02T12:52:38Z",
             "owner": "DEEP-PolyU",
             "repo": "Awesome-GraphRAG",
-            "stars": 2611
+            "stars": 2612
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-06-20T23:54:03Z",
             "owner": "XMUDeepLIT",
             "repo": "MemGraphRAG",
-            "stars": 204
+            "stars": 205
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2025-05-20T08:38:28Z",
             "owner": "IAAR-Shanghai",
             "repo": "CRUD_RAG",
-            "stars": 405
+            "stars": 406
           }
         },
         {
@@ -465,10 +465,10 @@
             "archived": false,
             "id": 866513204,
             "language": "Python",
-            "last_commit": "2026-08-25T10:29:34Z",
+            "last_commit": "2026-08-26T00:51:09Z",
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39170
+            "stars": 39200
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-24T18:30:25Z",
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 35672
+            "stars": 35695
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-08-21T01:52:20Z",
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 30292
+            "stars": 30320
           }
         },
         {
@@ -510,10 +510,10 @@
             "archived": false,
             "id": 679343504,
             "language": "Python",
-            "last_commit": "2026-08-25T14:09:43Z",
+            "last_commit": "2026-08-26T13:54:16Z",
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 30258
+            "stars": 30272
           }
         },
         {
@@ -525,10 +525,10 @@
             "archived": false,
             "id": 1008304614,
             "language": "Python",
-            "last_commit": "2026-08-25T11:32:35Z",
+            "last_commit": "2026-08-26T13:47:02Z",
             "owner": "semantica-agi",
             "repo": "semantica",
-            "stars": 10771
+            "stars": 10898
           }
         },
         {
@@ -540,10 +540,10 @@
             "archived": false,
             "id": 1003043071,
             "language": "Python",
-            "last_commit": "2026-08-25T10:26:11Z",
+            "last_commit": "2026-08-26T13:08:24Z",
             "owner": "vitali87",
             "repo": "code-graph-rag",
-            "stars": 4815
+            "stars": 4827
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-01-27T07:50:55Z",
             "owner": "gusye1234",
             "repo": "nano-graphrag",
-            "stars": 3973
+            "stars": 3974
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2025-11-01T20:45:25Z",
             "owner": "circlemind-ai",
             "repo": "fast-graphrag",
-            "stars": 3848
+            "stars": 3849
           }
         },
         {
@@ -585,10 +585,10 @@
             "archived": false,
             "id": 996124831,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T06:51:54Z",
+            "last_commit": "2026-08-26T06:53:10Z",
             "owner": "onestardao",
             "repo": "WFGY",
-            "stars": 1784
+            "stars": 1785
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2026-05-02T05:01:36Z",
             "owner": "apecloud",
             "repo": "ApeRAG",
-            "stars": 1303
+            "stars": 1306
           }
         },
         {
@@ -630,7 +630,7 @@
             "archived": false,
             "id": 748030359,
             "language": "Python",
-            "last_commit": "2026-08-24T13:54:10Z",
+            "last_commit": "2026-08-26T09:23:26Z",
             "owner": "FalkorDB",
             "repo": "GraphRAG-SDK",
             "stars": 990
@@ -645,7 +645,7 @@
             "archived": false,
             "id": 1051546963,
             "language": "Python",
-            "last_commit": "2026-08-24T05:33:30Z",
+            "last_commit": "2026-08-26T03:06:57Z",
             "owner": "bibinprathap",
             "repo": "VeritasGraph",
             "stars": 313
@@ -678,7 +678,7 @@
             "last_commit": "2025-12-12T03:46:36Z",
             "owner": "tpoisonooo",
             "repo": "ROGRAG",
-            "stars": 201
+            "stars": 202
           }
         }
       ],
@@ -686,7 +686,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:13:17.240Z",
+    "last_updated": "2026-08-26T14:11:57.750Z",
     "original_repository": "DEEP-PolyU/Awesome-GraphRAG",
     "original_repository_id": 876000634,
     "original_repository_sha": "48abc5ab578baffa64c0fb63dbda6a2cb2eb512b",
