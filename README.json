@@ -15,8 +15,9 @@
             "last_commit": "2026-06-02T12:52:38Z",
             "owner": "DEEP-PolyU",
             "repo": "Awesome-GraphRAG",
-            "stars": 2613
-          }
+            "stars": 2618
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "DEEP-PolyU",
             "repo": "LinearRAG",
             "stars": 538
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "DEEP-PolyU",
             "repo": "LinearRAG",
             "stars": 538
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-06-07T02:17:59Z",
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 485
-          }
+            "stars": 486
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-06-07T02:17:59Z",
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 485
-          }
+            "stars": 486
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "chensyCN",
             "repo": "LogicRAG",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "XMUDeepLIT",
             "repo": "MemGraphRAG",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "XMUDeepLIT",
             "repo": "LegalGraphRAG",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -135,8 +143,9 @@
             "last_commit": "2026-08-25T09:29:03Z",
             "owner": "Jord8061",
             "repo": "logicPoison",
-            "stars": 36
-          }
+            "stars": 37
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Liushiyu-0709",
             "repo": "BAPO-Reliable-Search",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "LinfengGao",
             "repo": "ProbeRAG",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         }
       ],
       "title": "🎉 News"
@@ -186,8 +197,9 @@
             "last_commit": "2025-11-05T13:18:47Z",
             "owner": "XiaoxinHe",
             "repo": "Awesome-Graph-LLM",
-            "stars": 2446
-          }
+            "stars": 2447
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "yhLeeee",
             "repo": "Awesome-LLMs-in-Graph-tasks",
             "stars": 656
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "WxxShirley",
             "repo": "Awesome-Graph-Prompt",
             "stars": 424
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         }
       ],
       "title": "📚 Related Survey Papers"
@@ -237,8 +251,9 @@
             "last_commit": "2026-06-07T02:17:59Z",
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 485
-          }
+            "stars": 486
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "JayLZhou",
             "repo": "GraphRAG",
             "stars": 1538
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "Liu-rj",
             "repo": "PolyG",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "Jerryzhao-z",
             "repo": "simple-question-answering-with-memory-networks",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -297,8 +315,9 @@
             "last_commit": "2026-07-17T03:54:37Z",
             "owner": "yixuantt",
             "repo": "MultiHop-RAG",
-            "stars": 463
-          }
+            "stars": 464
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "yuyuz",
             "repo": "MetaQA",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "yuyuz",
             "repo": "MetaQA",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "IAAR-Shanghai",
             "repo": "CRUD_RAG",
             "stars": 407
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "shijx12",
             "repo": "KQAPro_Baselines",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "AskNowQA",
             "repo": "LC-QuAD",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "qhjqhj00",
             "repo": "MemoRAG",
             "stars": 2265
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "IreneZihuiLi",
             "repo": "CGPrompt",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "jiho283",
             "repo": "FactKG",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "amazon-science",
             "repo": "mintaka",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "dki-lab",
             "repo": "GrailQA",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         }
       ],
       "title": "🏆 Benchmarks"
@@ -465,11 +494,12 @@
             "archived": false,
             "id": 866513204,
             "language": "Python",
-            "last_commit": "2026-08-27T18:18:07Z",
+            "last_commit": "2026-08-28T18:23:22Z",
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39234
-          }
+            "stars": 39255
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -483,8 +513,9 @@
             "last_commit": "2026-08-24T18:30:25Z",
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 35707
-          }
+            "stars": 35721
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -495,11 +526,12 @@
             "archived": false,
             "id": 840056306,
             "language": "Python",
-            "last_commit": "2026-08-26T18:28:50Z",
+            "last_commit": "2026-08-28T13:11:19Z",
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 30355
-          }
+            "stars": 30384
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -510,11 +542,12 @@
             "archived": false,
             "id": 679343504,
             "language": "Python",
-            "last_commit": "2026-08-27T20:58:46Z",
+            "last_commit": "2026-08-28T10:34:47Z",
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 30298
-          }
+            "stars": 30325
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -525,11 +558,12 @@
             "archived": false,
             "id": 1008304614,
             "language": "Python",
-            "last_commit": "2026-08-27T12:26:04Z",
+            "last_commit": "2026-08-28T19:19:40Z",
             "owner": "semantica-agi",
             "repo": "semantica",
-            "stars": 11039
-          }
+            "stars": 11127
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -540,11 +574,12 @@
             "archived": false,
             "id": 1003043071,
             "language": "Python",
-            "last_commit": "2026-08-27T17:41:55Z",
+            "last_commit": "2026-08-28T21:07:31Z",
             "owner": "vitali87",
             "repo": "code-graph-rag",
-            "stars": 4835
-          }
+            "stars": 4841
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -558,8 +593,9 @@
             "last_commit": "2026-01-27T07:50:55Z",
             "owner": "gusye1234",
             "repo": "nano-graphrag",
-            "stars": 3974
-          }
+            "stars": 3976
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -573,8 +609,9 @@
             "last_commit": "2025-11-01T20:45:25Z",
             "owner": "circlemind-ai",
             "repo": "fast-graphrag",
-            "stars": 3849
-          }
+            "stars": 3848
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -585,11 +622,12 @@
             "archived": false,
             "id": 996124831,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-27T17:26:58Z",
+            "last_commit": "2026-08-28T18:20:15Z",
             "owner": "onestardao",
             "repo": "WFGY",
             "stars": 1785
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "JayLZhou",
             "repo": "GraphRAG",
             "stars": 1538
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -618,8 +657,9 @@
             "last_commit": "2026-05-02T05:01:36Z",
             "owner": "apecloud",
             "repo": "ApeRAG",
-            "stars": 1306
-          }
+            "stars": 1305
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "FalkorDB",
             "repo": "GraphRAG-SDK",
             "stars": 990
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -645,11 +686,12 @@
             "archived": false,
             "id": 1051546963,
             "language": "Python",
-            "last_commit": "2026-08-27T06:59:47Z",
+            "last_commit": "2026-08-28T07:57:06Z",
             "owner": "bibinprathap",
             "repo": "VeritasGraph",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "chensyCN",
             "repo": "LogicRAG",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         },
         {
           "node_type": "item",
@@ -679,14 +722,15 @@
             "owner": "tpoisonooo",
             "repo": "ROGRAG",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
         }
       ],
       "title": "💻 Open-source Project"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:01:13.348Z",
+    "last_updated": "2026-08-28T23:08:56.846Z",
     "original_repository_info": {
       "archived": false,
       "id": 876000634,
@@ -694,7 +738,7 @@
       "last_commit": "2026-06-02T12:52:38Z",
       "owner": "DEEP-PolyU",
       "repo": "Awesome-GraphRAG",
-      "stars": 2613
+      "stars": 2618
     },
     "original_repository_sha": "48abc5ab578baffa64c0fb63dbda6a2cb2eb512b",
     "enhanced_repository": "enhansome/enhansome-Awesome-GraphRAG",
