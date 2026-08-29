@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. ",
+            "homepage": "https://arxiv.org/abs/2501.13958",
             "id": 876000634,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-02T12:52:38Z",
+            "open_issues": 16,
             "owner": "DEEP-PolyU",
             "repo": "Awesome-GraphRAG",
-            "stars": 2618
+            "stars": 2618,
+            "topics": [
+              "graphrag",
+              "graphrag-paper",
+              "graphrag-survey",
+              "knowledge-graph",
+              "large-language-models",
+              "rag",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -26,12 +39,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora",
+            "homepage": "https://arxiv.org/pdf/2510.10114",
             "id": 1083953029,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-05T00:55:44Z",
+            "open_issues": 3,
             "owner": "DEEP-PolyU",
             "repo": "LinearRAG",
-            "stars": 538
+            "stars": 538,
+            "topics": [
+              "graphrag",
+              "llms",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -42,12 +64,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora",
+            "homepage": "https://arxiv.org/pdf/2510.10114",
             "id": 1083953029,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-05T00:55:44Z",
+            "open_issues": 3,
             "owner": "DEEP-PolyU",
             "repo": "LinearRAG",
-            "stars": 538
+            "stars": 538,
+            "topics": [
+              "graphrag",
+              "llms",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -58,12 +89,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo of GraphRAG-Bench for evaluating GraphRAG models. \"When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation\".  (ICLR'26)",
+            "homepage": "https://arxiv.org/abs/2506.05690",
             "id": 998658685,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-07T02:17:59Z",
+            "open_issues": 8,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 486
+            "stars": 486,
+            "topics": [
+              "analysis",
+              "benchmark",
+              "dataset",
+              "graphrag",
+              "graphrag-bench",
+              "graphrag-benchmark",
+              "graphragdataset"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -74,12 +118,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo of GraphRAG-Bench for evaluating GraphRAG models. \"When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation\".  (ICLR'26)",
+            "homepage": "https://arxiv.org/abs/2506.05690",
             "id": 998658685,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-07T02:17:59Z",
+            "open_issues": 8,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 486
+            "stars": 486,
+            "topics": [
+              "analysis",
+              "benchmark",
+              "dataset",
+              "graphrag",
+              "graphrag-bench",
+              "graphrag-benchmark",
+              "graphragdataset"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -90,12 +147,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of LogicRAG at AAAI'26.",
+            "homepage": "https://arxiv.org/abs/2508.06105",
             "id": 961855292,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-19T10:34:26Z",
+            "open_issues": 1,
             "owner": "chensyCN",
             "repo": "LogicRAG",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "agentic-rag",
+              "graphrag",
+              "llms",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -106,12 +173,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation",
+            "homepage": "https://arxiv.org/pdf/2606.00610",
             "id": 1147646222,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-20T23:54:03Z",
+            "open_issues": 3,
             "owner": "XMUDeepLIT",
             "repo": "MemGraphRAG",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "agent-memory",
+              "graph-construction",
+              "graphrag",
+              "multi-agent",
+              "ontology",
+              "ontology-construction",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -122,12 +202,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL'26 Main] Official code for \"LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning\".",
+            "homepage": "https://arxiv.org/abs/2605.28120",
             "id": 1182983194,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-03T01:04:43Z",
+            "open_issues": 0,
             "owner": "XMUDeepLIT",
             "repo": "LegalGraphRAG",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "graphrag",
+              "legal",
+              "legalgraph",
+              "legalgraphrag",
+              "legalrag",
+              "llms",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -138,12 +231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL'26 Main Oral] Official code for \"LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation\".",
+            "homepage": "https://aclanthology.org/2026.acl-long.252/",
             "id": 1196060213,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T09:29:03Z",
+            "open_issues": 0,
             "owner": "Jord8061",
             "repo": "logicPoison",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -154,12 +252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL'26 Findings] Official code for \"BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search\"",
+            "homepage": null,
             "id": 1134660882,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-23T01:32:26Z",
+            "open_issues": 0,
             "owner": "Liushiyu-0709",
             "repo": "BAPO-Reliable-Search",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -170,12 +273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL'26 Findings] Official code for: \"Beyond Black-Box Interventions: Latent Probing for Faithful Retrieval-Augmented Generation“",
+            "homepage": "https://arxiv.org/abs/2510.12460",
             "id": 1063177719,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-23T01:25:36Z",
+            "open_issues": 0,
             "owner": "LinfengGao",
             "repo": "ProbeRAG",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         }
@@ -192,12 +300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of AWESOME things about Graph-Related LLMs.",
+            "homepage": null,
             "id": 649635713,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-11-05T13:18:47Z",
+            "open_issues": 7,
             "owner": "XiaoxinHe",
             "repo": "Awesome-Graph-LLM",
-            "stars": 2447
+            "stars": 2447,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -208,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of research papers exploring the utilization of LLMs for graph-related tasks.",
+            "homepage": null,
             "id": 720092821,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-21T06:59:56Z",
+            "open_issues": 1,
             "owner": "yhLeeee",
             "repo": "Awesome-LLMs-in-Graph-tasks",
-            "stars": 656
+            "stars": 656,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -224,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Papers About Performing Prompting On Graphs",
+            "homepage": null,
             "id": 666052529,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-05-15T09:59:33Z",
+            "open_issues": 0,
             "owner": "WxxShirley",
             "repo": "Awesome-Graph-Prompt",
-            "stars": 424
+            "stars": 424,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         }
@@ -246,12 +369,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo of GraphRAG-Bench for evaluating GraphRAG models. \"When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation\".  (ICLR'26)",
+            "homepage": "https://arxiv.org/abs/2506.05690",
             "id": 998658685,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-07T02:17:59Z",
+            "open_issues": 8,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 486
+            "stars": 486,
+            "topics": [
+              "analysis",
+              "benchmark",
+              "dataset",
+              "graphrag",
+              "graphrag-bench",
+              "graphrag-benchmark",
+              "graphragdataset"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -262,12 +398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-depth study of the graphrag ",
+            "homepage": null,
             "id": 886670908,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-01T17:41:28Z",
+            "open_issues": 23,
             "owner": "JayLZhou",
             "repo": "GraphRAG",
-            "stars": 1538
+            "stars": 1538,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -278,12 +419,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PolyG: Adaptive Graph Traversal for Diverse GraphRAG Questions",
+            "homepage": null,
             "id": 905368086,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-06T10:29:19Z",
+            "open_issues": 0,
             "owner": "Liu-rj",
             "repo": "PolyG",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "graphqa",
+              "graphrag",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -294,12 +444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replication of results for the Large-Scale Simple Question Answering With Memory Networks article",
+            "homepage": null,
             "id": 83211301,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2016-05-17T16:32:28Z",
+            "open_issues": 0,
             "owner": "Jerryzhao-z",
             "repo": "simple-question-answering-with-memory-networks",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -310,12 +465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for \"MultiHop-RAG: A Dataset for Evaluating Retrieval-Augmented Generation Across Documents\" (COLM 2024)",
+            "homepage": null,
             "id": 747052840,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-17T03:54:37Z",
+            "open_issues": 11,
             "owner": "yixuantt",
             "repo": "MultiHop-RAG",
-            "stars": 464
+            "stars": 464,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -326,12 +486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MoviE Text Audio QA (MetaQA): a benchmark dataset for question answering",
+            "homepage": null,
             "id": 120158781,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-10-10T22:52:59Z",
+            "open_issues": 1,
             "owner": "yuyuz",
             "repo": "MetaQA",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -342,12 +507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MoviE Text Audio QA (MetaQA): a benchmark dataset for question answering",
+            "homepage": null,
             "id": 120158781,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-10-10T22:52:59Z",
+            "open_issues": 1,
             "owner": "yuyuz",
             "repo": "MetaQA",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -358,12 +528,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models",
+            "homepage": "https://arxiv.org/abs/2401.17043",
             "id": 748554597,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-20T08:38:28Z",
+            "open_issues": 9,
             "owner": "IAAR-Shanghai",
             "repo": "CRUD_RAG",
-            "stars": 407
+            "stars": 407,
+            "topics": [
+              "benchmark",
+              "large-language-models",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -374,12 +553,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of baseline models of KQA Pro, a large-scale dataset of complex question answering over knowledge base.",
+            "homepage": "http://thukeg.gitee.io/kqa-pro/",
             "id": 241786879,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-15T12:32:32Z",
+            "open_issues": 6,
             "owner": "shijx12",
             "repo": "KQAPro_Baselines",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "bart",
+              "dataset",
+              "kbqa",
+              "seq2seq",
+              "sparql"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -390,12 +580,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A data set of natural language queries with corresponding SPARQL queries",
+            "homepage": null,
             "id": 60763703,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2023-09-05T14:32:34Z",
+            "open_issues": 13,
             "owner": "AskNowQA",
             "repo": "LC-QuAD",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "dataset",
+              "question-answering",
+              "rdf",
+              "sparql"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -406,12 +606,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Empowering RAG with a memory-based data interface for all-purpose applications!",
+            "homepage": null,
             "id": 851973702,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-11T08:51:14Z",
+            "open_issues": 23,
             "owner": "qhjqhj00",
             "repo": "MemoRAG",
-            "stars": 2265
+            "stars": 2265,
+            "topics": [
+              "long-llm",
+              "memory",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -422,12 +631,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leveraging Large Language Models for Concept Graph Recovery and Question Answering in NLP Education",
+            "homepage": null,
             "id": 757240379,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-09-10T04:40:47Z",
+            "open_issues": 1,
             "owner": "IreneZihuiLi",
             "repo": "CGPrompt",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -438,12 +652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of FactKG",
+            "homepage": null,
             "id": 637812837,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-22T06:05:24Z",
+            "open_issues": 0,
             "owner": "jiho283",
             "repo": "FactKG",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -454,12 +673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataset from the paper \"Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering\" (COLING 2022)",
+            "homepage": null,
             "id": 533469861,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2022-10-25T14:20:04Z",
+            "open_issues": 1,
             "owner": "amazon-science",
             "repo": "mintaka",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -470,12 +694,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 307486824,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-09T16:09:57Z",
+            "open_issues": 10,
             "owner": "dki-lab",
             "repo": "GrailQA",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "nlp",
+              "pytorch",
+              "question-answering"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         }
@@ -492,12 +725,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+            "homepage": "https://arxiv.org/abs/2410.05779",
             "id": 866513204,
             "language": "Python",
-            "last_commit": "2026-08-28T18:23:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:15:20Z",
+            "open_issues": 213,
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39255
+            "stars": 39257,
+            "topics": [
+              "docling",
+              "genai",
+              "gpt",
+              "graphrag",
+              "knowledge-graph",
+              "large-language-models",
+              "llm",
+              "mineru",
+              "rag",
+              "ragas",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -508,12 +758,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "homepage": "https://microsoft.github.io/graphrag/",
             "id": 778431525,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T18:30:25Z",
+            "open_issues": 36,
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 35721
+            "stars": 35727,
+            "topics": [
+              "gpt",
+              "gpt-4",
+              "gpt4",
+              "graphrag",
+              "llm",
+              "llms",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -524,12 +787,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Real-Time Knowledge Graphs for AI Agents",
+            "homepage": "https://help.getzep.com/graphiti",
             "id": 840056306,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:11:19Z",
+            "open_issues": 484,
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 30384
+            "stars": 30387,
+            "topics": [
+              "agents",
+              "graph",
+              "llms",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -540,12 +813,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+            "homepage": "https://www.cognee.ai",
             "id": 679343504,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:34:47Z",
+            "open_issues": 474,
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 30325
+            "stars": 30330,
+            "topics": [
+              "agent-memory",
+              "agent-skills",
+              "ai",
+              "ai-agents",
+              "ai-memory",
+              "cognitive-architecture",
+              "cognitive-memory",
+              "context-engineering",
+              "contributions-welcome",
+              "good-first-issue",
+              "good-first-pr",
+              "graph-database",
+              "graph-rag",
+              "help-wanted",
+              "knowledge",
+              "knowledge-graph",
+              "memory-management",
+              "open-source",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -556,12 +854,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+            "homepage": "https://getsemantica.ai",
             "id": 1008304614,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:19:40Z",
+            "open_issues": 73,
             "owner": "semantica-agi",
             "repo": "semantica",
-            "stars": 11127
+            "stars": 11150,
+            "topics": [
+              "agent-memory",
+              "ai",
+              "ai-governance",
+              "ai-infrastructure",
+              "artificial-intelligence",
+              "context-engineering",
+              "context-graphs",
+              "data-engineering",
+              "decision-intelligence",
+              "developer-tools",
+              "explainable-ai",
+              "generative-ai",
+              "graph-rag",
+              "knowledge-graph",
+              "llm",
+              "ontology",
+              "provenance",
+              "python",
+              "reasoning",
+              "semantic-search"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -572,12 +896,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+            "homepage": "https://code-graph-rag.com",
             "id": 1003043071,
             "language": "Python",
-            "last_commit": "2026-08-28T21:07:31Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:17:46Z",
+            "open_issues": 44,
             "owner": "vitali87",
             "repo": "code-graph-rag",
-            "stars": 4841
+            "stars": 4842,
+            "topics": [
+              "ai",
+              "ast",
+              "claude-code",
+              "code-analysis",
+              "code-understanding",
+              "codebase-search",
+              "developer-tools",
+              "graph-database",
+              "knowledge-graph",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "memgraph",
+              "monorepo",
+              "multi-language",
+              "python",
+              "rag",
+              "retrieval-augmented-generation",
+              "semantic-search",
+              "tree-sitter"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -588,12 +938,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, easy-to-hack GraphRAG implementation",
+            "homepage": null,
             "id": 833512367,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-27T07:50:55Z",
+            "open_issues": 84,
             "owner": "gusye1234",
             "repo": "nano-graphrag",
-            "stars": 3976
+            "stars": 3976,
+            "topics": [
+              "gpt",
+              "gpt-4o",
+              "graphrag",
+              "learning-by-doing",
+              "llm",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -604,12 +966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RAG that intelligently adapts to your use case, data, and queries",
+            "homepage": null,
             "id": 880986730,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-01T20:45:25Z",
+            "open_issues": 38,
             "owner": "circlemind-ai",
             "repo": "fast-graphrag",
-            "stars": 3848
+            "stars": 3848,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -620,12 +987,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-world workflows. Includes Problem Map, Global Debug Card, WFGY 4.0, and the CFV Easter Egg.",
+            "homepage": "https://github.com/onestardao/WFGY",
             "id": 996124831,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:20:15Z",
+            "open_issues": 13,
             "owner": "onestardao",
             "repo": "WFGY",
-            "stars": 1785
+            "stars": 1785,
+            "topics": [
+              "ai-agents",
+              "alignment",
+              "debugging",
+              "evaluation",
+              "graphrag",
+              "hallucination",
+              "information-retrieval",
+              "knowledge-graph",
+              "llm",
+              "rag",
+              "reasoning",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -636,12 +1021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-depth study of the graphrag ",
+            "homepage": null,
             "id": 886670908,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-01T17:41:28Z",
+            "open_issues": 23,
             "owner": "JayLZhou",
             "repo": "GraphRAG",
-            "stars": 1538
+            "stars": 1538,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -652,12 +1042,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment",
+            "homepage": null,
             "id": 656181752,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-02T05:01:36Z",
+            "open_issues": 36,
             "owner": "apecloud",
             "repo": "ApeRAG",
-            "stars": 1305
+            "stars": 1305,
+            "topics": [
+              "agents",
+              "context-engineering",
+              "graphrag",
+              "knowledge-graph",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -668,12 +1069,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build fast and accurate GenAI apps with GraphRAG SDK at scale  🌟 ",
+            "homepage": "https://www.falkordb.com/",
             "id": 748030359,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T13:38:53Z",
+            "open_issues": 40,
             "owner": "FalkorDB",
             "repo": "GraphRAG-SDK",
-            "stars": 990
+            "stars": 990,
+            "topics": [
+              "falkordb",
+              "genai",
+              "graph-database",
+              "graphrag",
+              "knowledge-graph",
+              "llm",
+              "open-source",
+              "rag",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -684,12 +1100,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VeritasGraph — open-source Knowledge Graph & GraphRAG framework on GitHub. Build multi-hop reasoning, ontology-aware retrieval, and verifiable attribution over your own data. Nodes, edges, RDF, linked-data — runs locally or in the cloud.",
+            "homepage": "https://bibinprathap.github.io/VeritasGraph/studio/",
             "id": 1051546963,
             "language": "Python",
-            "last_commit": "2026-08-28T07:57:06Z",
+            "license": null,
+            "last_commit": "2026-08-29T01:53:47Z",
+            "open_issues": 2,
             "owner": "bibinprathap",
             "repo": "VeritasGraph",
-            "stars": 313
+            "stars": 313,
+            "topics": [
+              "agent",
+              "ai-agents",
+              "ai-memory",
+              "context-window",
+              "data-privacy",
+              "enterprise-ai",
+              "generative-ai",
+              "graph-analytics",
+              "graph-database",
+              "graph-rag",
+              "information-retrieval",
+              "knowledge-engineering",
+              "knowledge-graphs",
+              "knowledge-management",
+              "llm",
+              "multi-hop-reasoning",
+              "nlp",
+              "python-library",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -700,12 +1141,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of LogicRAG at AAAI'26.",
+            "homepage": "https://arxiv.org/abs/2508.06105",
             "id": 961855292,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-19T10:34:26Z",
+            "open_issues": 1,
             "owner": "chensyCN",
             "repo": "LogicRAG",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "agentic-rag",
+              "graphrag",
+              "llms",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         },
@@ -716,12 +1167,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL2025 demo track] ROGRAG: A Robustly Optimized GraphRAG Framework",
+            "homepage": null,
             "id": 905143736,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-12T03:46:36Z",
+            "open_issues": 8,
             "owner": "tpoisonooo",
             "repo": "ROGRAG",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "knowledge-base",
+              "knowledge-graph",
+              "knownledge-augmented-generation",
+              "llm",
+              "precision",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
         }
@@ -730,15 +1193,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:08:56.846Z",
+    "last_updated": "2026-08-29T04:27:47.111Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. ",
+      "homepage": "https://arxiv.org/abs/2501.13958",
       "id": 876000634,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-06-02T12:52:38Z",
+      "open_issues": 16,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-GraphRAG",
-      "stars": 2618
+      "stars": 2618,
+      "topics": [
+        "graphrag",
+        "graphrag-paper",
+        "graphrag-survey",
+        "knowledge-graph",
+        "large-language-models",
+        "rag",
+        "retrieval-augmented-generation"
+      ]
     },
     "original_repository_sha": "48abc5ab578baffa64c0fb63dbda6a2cb2eb512b",
     "enhanced_repository": "enhansome/enhansome-Awesome-GraphRAG",
