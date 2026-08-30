@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "DEEP-PolyU",
             "repo": "Awesome-GraphRAG",
-            "stars": 2618,
+            "stars": 2617,
             "topics": [
               "graphrag",
               "graphrag-paper",
@@ -48,7 +48,7 @@
             "open_issues": 3,
             "owner": "DEEP-PolyU",
             "repo": "LinearRAG",
-            "stars": 538,
+            "stars": 537,
             "topics": [
               "graphrag",
               "llms",
@@ -73,7 +73,7 @@
             "open_issues": 3,
             "owner": "DEEP-PolyU",
             "repo": "LinearRAG",
-            "stars": 538,
+            "stars": 537,
             "topics": [
               "graphrag",
               "llms",
@@ -98,7 +98,7 @@
             "open_issues": 8,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 486,
+            "stars": 485,
             "topics": [
               "analysis",
               "benchmark",
@@ -127,7 +127,7 @@
             "open_issues": 8,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 486,
+            "stars": 485,
             "topics": [
               "analysis",
               "benchmark",
@@ -378,7 +378,7 @@
             "open_issues": 8,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 486,
+            "stars": 485,
             "topics": [
               "analysis",
               "benchmark",
@@ -407,7 +407,7 @@
             "open_issues": 23,
             "owner": "JayLZhou",
             "repo": "GraphRAG",
-            "stars": 1538,
+            "stars": 1537,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
@@ -474,7 +474,7 @@
             "open_issues": 11,
             "owner": "yixuantt",
             "repo": "MultiHop-RAG",
-            "stars": 464,
+            "stars": 463,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
@@ -615,7 +615,7 @@
             "open_issues": 23,
             "owner": "qhjqhj00",
             "repo": "MemoRAG",
-            "stars": 2265,
+            "stars": 2266,
             "topics": [
               "long-llm",
               "memory",
@@ -730,11 +730,11 @@
             "id": 866513204,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T13:10:50Z",
-            "open_issues": 214,
+            "last_commit": "2026-08-30T17:24:42Z",
+            "open_issues": 223,
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39262,
+            "stars": 39273,
             "topics": [
               "docling",
               "genai",
@@ -767,7 +767,7 @@
             "open_issues": 36,
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 35734,
+            "stars": 35742,
             "topics": [
               "gpt",
               "gpt-4",
@@ -792,11 +792,11 @@
             "id": 840056306,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T06:15:05Z",
-            "open_issues": 485,
+            "last_commit": "2026-08-30T09:09:02Z",
+            "open_issues": 487,
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 30397,
+            "stars": 30423,
             "topics": [
               "agents",
               "graph",
@@ -818,11 +818,11 @@
             "id": 679343504,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T15:10:20Z",
-            "open_issues": 474,
+            "last_commit": "2026-08-30T10:29:28Z",
+            "open_issues": 487,
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 30336,
+            "stars": 30350,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -859,11 +859,11 @@
             "id": 1008304614,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T17:15:41Z",
-            "open_issues": 64,
+            "last_commit": "2026-08-30T16:27:39Z",
+            "open_issues": 100,
             "owner": "semantica-agi",
             "repo": "semantica",
-            "stars": 11232,
+            "stars": 11367,
             "topics": [
               "agent-memory",
               "ai",
@@ -901,11 +901,11 @@
             "id": 1003043071,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T16:57:08Z",
-            "open_issues": 44,
+            "last_commit": "2026-08-30T15:36:01Z",
+            "open_issues": 83,
             "owner": "vitali87",
             "repo": "code-graph-rag",
-            "stars": 4846,
+            "stars": 4850,
             "topics": [
               "ai",
               "ast",
@@ -947,7 +947,7 @@
             "open_issues": 84,
             "owner": "gusye1234",
             "repo": "nano-graphrag",
-            "stars": 3976,
+            "stars": 3975,
             "topics": [
               "gpt",
               "gpt-4o",
@@ -975,7 +975,7 @@
             "open_issues": 38,
             "owner": "circlemind-ai",
             "repo": "fast-graphrag",
-            "stars": 3849,
+            "stars": 3850,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
@@ -992,11 +992,11 @@
             "id": 996124831,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T12:28:32Z",
+            "last_commit": "2026-08-30T11:30:39Z",
             "open_issues": 13,
             "owner": "onestardao",
             "repo": "WFGY",
-            "stars": 1785,
+            "stars": 1784,
             "topics": [
               "ai-agents",
               "alignment",
@@ -1030,7 +1030,7 @@
             "open_issues": 23,
             "owner": "JayLZhou",
             "repo": "GraphRAG",
-            "stars": 1538,
+            "stars": 1537,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 36,
             "owner": "apecloud",
             "repo": "ApeRAG",
-            "stars": 1306,
+            "stars": 1305,
             "topics": [
               "agents",
               "context-engineering",
@@ -1078,7 +1078,7 @@
             "open_issues": 40,
             "owner": "FalkorDB",
             "repo": "GraphRAG-SDK",
-            "stars": 990,
+            "stars": 993,
             "topics": [
               "falkordb",
               "genai",
@@ -1105,7 +1105,7 @@
             "id": 1051546963,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-29T16:30:57Z",
+            "last_commit": "2026-08-30T15:40:31Z",
             "open_issues": 2,
             "owner": "bibinprathap",
             "repo": "VeritasGraph",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:18:28.438Z",
+    "last_updated": "2026-08-30T17:40:50.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. ",
@@ -1205,7 +1205,7 @@
       "open_issues": 16,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-GraphRAG",
-      "stars": 2618,
+      "stars": 2617,
       "topics": [
         "graphrag",
         "graphrag-paper",
