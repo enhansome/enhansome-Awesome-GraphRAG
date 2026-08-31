@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "DEEP-PolyU",
             "repo": "Awesome-GraphRAG",
-            "stars": 2617,
+            "stars": 2618,
             "topics": [
               "graphrag",
               "graphrag-paper",
@@ -98,7 +98,7 @@
             "open_issues": 8,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 485,
+            "stars": 486,
             "topics": [
               "analysis",
               "benchmark",
@@ -127,7 +127,7 @@
             "open_issues": 8,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 485,
+            "stars": 486,
             "topics": [
               "analysis",
               "benchmark",
@@ -309,7 +309,7 @@
             "open_issues": 7,
             "owner": "XiaoxinHe",
             "repo": "Awesome-Graph-LLM",
-            "stars": 2447,
+            "stars": 2448,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
@@ -330,7 +330,7 @@
             "open_issues": 1,
             "owner": "yhLeeee",
             "repo": "Awesome-LLMs-in-Graph-tasks",
-            "stars": 656,
+            "stars": 657,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
@@ -378,7 +378,7 @@
             "open_issues": 8,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 485,
+            "stars": 486,
             "topics": [
               "analysis",
               "benchmark",
@@ -474,7 +474,7 @@
             "open_issues": 11,
             "owner": "yixuantt",
             "repo": "MultiHop-RAG",
-            "stars": 463,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
@@ -730,11 +730,11 @@
             "id": 866513204,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T17:24:42Z",
-            "open_issues": 223,
+            "last_commit": "2026-08-31T09:01:20Z",
+            "open_issues": 228,
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39273,
+            "stars": 39293,
             "topics": [
               "docling",
               "genai",
@@ -763,11 +763,11 @@
             "id": 778431525,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-24T18:30:25Z",
-            "open_issues": 36,
+            "last_commit": "2026-08-31T07:33:13Z",
+            "open_issues": 40,
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 35742,
+            "stars": 35760,
             "topics": [
               "gpt",
               "gpt-4",
@@ -793,10 +793,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-30T09:09:02Z",
-            "open_issues": 487,
+            "open_issues": 486,
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 30423,
+            "stars": 30462,
             "topics": [
               "agents",
               "graph",
@@ -818,11 +818,11 @@
             "id": 679343504,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T10:29:28Z",
-            "open_issues": 487,
+            "last_commit": "2026-08-31T16:40:44Z",
+            "open_issues": 486,
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 30350,
+            "stars": 30373,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -859,11 +859,11 @@
             "id": 1008304614,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T16:27:39Z",
-            "open_issues": 100,
+            "last_commit": "2026-08-31T16:41:14Z",
+            "open_issues": 117,
             "owner": "semantica-agi",
             "repo": "semantica",
-            "stars": 11367,
+            "stars": 11498,
             "topics": [
               "agent-memory",
               "ai",
@@ -901,11 +901,11 @@
             "id": 1003043071,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T15:36:01Z",
-            "open_issues": 83,
+            "last_commit": "2026-08-31T19:28:29Z",
+            "open_issues": 82,
             "owner": "vitali87",
             "repo": "code-graph-rag",
-            "stars": 4850,
+            "stars": 4900,
             "topics": [
               "ai",
               "ast",
@@ -992,11 +992,11 @@
             "id": 996124831,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T11:30:39Z",
+            "last_commit": "2026-08-31T13:03:25Z",
             "open_issues": 13,
             "owner": "onestardao",
             "repo": "WFGY",
-            "stars": 1784,
+            "stars": 1785,
             "topics": [
               "ai-agents",
               "alignment",
@@ -1074,7 +1074,7 @@
             "id": 748030359,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T13:38:53Z",
+            "last_commit": "2026-08-31T18:07:40Z",
             "open_issues": 40,
             "owner": "FalkorDB",
             "repo": "GraphRAG-SDK",
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:40:50.895Z",
+    "last_updated": "2026-08-31T19:34:00.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. ",
@@ -1205,7 +1205,7 @@
       "open_issues": 16,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-GraphRAG",
-      "stars": 2617,
+      "stars": 2618,
       "topics": [
         "graphrag",
         "graphrag-paper",
