@@ -5,35 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[2025-01-21] We release the GraphRAG survey",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. ",
-            "homepage": "https://arxiv.org/abs/2501.13958",
-            "id": 876000634,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-06-02T12:52:38Z",
-            "open_issues": 20,
-            "owner": "DEEP-PolyU",
-            "repo": "Awesome-GraphRAG",
-            "stars": 2664,
-            "topics": [
-              "graphrag",
-              "graphrag-paper",
-              "graphrag-survey",
-              "knowledge-graph",
-              "large-language-models",
-              "rag",
-              "retrieval-augmented-generation"
-            ]
-          },
-          "first_seen": "2026-08-28T23:08:56.846Z"
-        },
-        {
-          "node_type": "item",
           "title": "[2026-01-26] Our LinearRAG",
           "description": "for efficient GraphRAG is accepted by ICLR’26.",
           "children": [],
@@ -309,7 +280,7 @@
             "open_issues": 7,
             "owner": "XiaoxinHe",
             "repo": "Awesome-Graph-LLM",
-            "stars": 2448,
+            "stars": 2449,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
@@ -731,10 +702,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T18:08:45Z",
-            "open_issues": 311,
+            "open_issues": 312,
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39947,
+            "stars": 39948,
             "topics": [
               "docling",
               "genai",
@@ -796,7 +767,7 @@
             "open_issues": 444,
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 31384,
+            "stars": 31391,
             "topics": [
               "agents",
               "graph",
@@ -818,11 +789,11 @@
             "id": 679343504,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:57:14Z",
-            "open_issues": 456,
+            "last_commit": "2026-10-02T20:55:58Z",
+            "open_issues": 452,
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 31302,
+            "stars": 31313,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -863,7 +834,7 @@
             "open_issues": 119,
             "owner": "semantica-agi",
             "repo": "semantica",
-            "stars": 13616,
+            "stars": 13619,
             "topics": [
               "agent-memory",
               "ai",
@@ -901,11 +872,11 @@
             "id": 1003043071,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:49:52Z",
-            "open_issues": 372,
+            "last_commit": "2026-10-03T04:25:44Z",
+            "open_issues": 414,
             "owner": "vitali87",
             "repo": "code-graph-rag",
-            "stars": 5210,
+            "stars": 5224,
             "topics": [
               "ai",
               "ast",
@@ -1105,7 +1076,7 @@
             "id": 1051546963,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-30T15:18:26Z",
+            "last_commit": "2026-10-02T18:58:02Z",
             "open_issues": 2,
             "owner": "bibinprathap",
             "repo": "VeritasGraph",
@@ -1193,7 +1164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:35:56.572Z",
+    "last_updated": "2026-10-03T04:26:02.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. ",
