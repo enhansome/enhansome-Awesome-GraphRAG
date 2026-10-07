@@ -280,7 +280,7 @@
             "open_issues": 7,
             "owner": "XiaoxinHe",
             "repo": "Awesome-Graph-LLM",
-            "stars": 2449,
+            "stars": 2450,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
@@ -702,10 +702,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-03T07:18:20Z",
-            "open_issues": 359,
+            "open_issues": 361,
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39998,
+            "stars": 40004,
             "topics": [
               "docling",
               "genai",
@@ -738,39 +738,13 @@
             "open_issues": 49,
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 36236,
+            "stars": 36245,
             "topics": [
               "gpt",
               "gpt-4",
               "gpt4",
               "graphrag",
               "llm",
-              "llms",
-              "rag"
-            ]
-          },
-          "first_seen": "2026-08-28T23:08:56.846Z"
-        },
-        {
-          "node_type": "item",
-          "title": "graphiti",
-          "description": "Graphiti: Build Real-Time Knowledge Graphs for AI Agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Build Real-Time Knowledge Graphs for AI Agents",
-            "homepage": "https://help.getzep.com/graphiti",
-            "id": 840056306,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-06T18:06:10Z",
-            "open_issues": 454,
-            "owner": "getzep",
-            "repo": "graphiti",
-            "stars": 31489,
-            "topics": [
-              "agents",
-              "graph",
               "llms",
               "rag"
             ]
@@ -789,11 +763,11 @@
             "id": 679343504,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T18:54:06Z",
-            "open_issues": 494,
+            "last_commit": "2026-10-07T18:59:12Z",
+            "open_issues": 501,
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 31477,
+            "stars": 31548,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -820,6 +794,32 @@
         },
         {
           "node_type": "item",
+          "title": "graphiti",
+          "description": "Graphiti: Build Real-Time Knowledge Graphs for AI Agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Build Real-Time Knowledge Graphs for AI Agents",
+            "homepage": "https://help.getzep.com/graphiti",
+            "id": 840056306,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-07T19:12:47Z",
+            "open_issues": 455,
+            "owner": "getzep",
+            "repo": "graphiti",
+            "stars": 31527,
+            "topics": [
+              "agents",
+              "graph",
+              "llms",
+              "rag"
+            ]
+          },
+          "first_seen": "2026-08-28T23:08:56.846Z"
+        },
+        {
+          "node_type": "item",
           "title": "semantica",
           "description": "Semantica: an open-source, production-ready semantic layer and GraphRAG framework that sits between raw corpora and LLMs.",
           "children": [],
@@ -830,11 +830,11 @@
             "id": 1008304614,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T08:09:15Z",
-            "open_issues": 97,
+            "last_commit": "2026-10-07T14:02:42Z",
+            "open_issues": 100,
             "owner": "semantica-agi",
             "repo": "semantica",
-            "stars": 13674,
+            "stars": 13774,
             "topics": [
               "agent-memory",
               "ai",
@@ -872,11 +872,11 @@
             "id": 1003043071,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T11:41:12Z",
-            "open_issues": 592,
+            "last_commit": "2026-10-07T14:11:44Z",
+            "open_issues": 587,
             "owner": "vitali87",
             "repo": "code-graph-rag",
-            "stars": 5232,
+            "stars": 5237,
             "topics": [
               "ai",
               "ast",
@@ -918,7 +918,7 @@
             "open_issues": 83,
             "owner": "gusye1234",
             "repo": "nano-graphrag",
-            "stars": 3991,
+            "stars": 3993,
             "topics": [
               "gpt",
               "gpt-4o",
@@ -963,7 +963,7 @@
             "id": 996124831,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T11:53:04Z",
+            "last_commit": "2026-10-07T12:53:36Z",
             "open_issues": 13,
             "owner": "onestardao",
             "repo": "WFGY",
@@ -1045,7 +1045,7 @@
             "id": 748030359,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T13:27:36Z",
+            "last_commit": "2026-10-07T14:23:39Z",
             "open_issues": 42,
             "owner": "FalkorDB",
             "repo": "GraphRAG-SDK",
@@ -1164,7 +1164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:59:18.074Z",
+    "last_updated": "2026-10-07T19:26:44.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. ",
@@ -1176,7 +1176,7 @@
       "open_issues": 20,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-GraphRAG",
-      "stars": 2664,
+      "stars": 2666,
       "topics": [
         "graphrag",
         "graphrag-paper",
