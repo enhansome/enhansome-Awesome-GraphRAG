@@ -69,7 +69,7 @@
             "open_issues": 11,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 521,
+            "stars": 522,
             "topics": [
               "analysis",
               "benchmark",
@@ -98,7 +98,7 @@
             "open_issues": 11,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 521,
+            "stars": 522,
             "topics": [
               "analysis",
               "benchmark",
@@ -280,7 +280,7 @@
             "open_issues": 7,
             "owner": "XiaoxinHe",
             "repo": "Awesome-Graph-LLM",
-            "stars": 2451,
+            "stars": 2452,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:56.846Z"
@@ -349,7 +349,7 @@
             "open_issues": 11,
             "owner": "GraphRAG-Bench",
             "repo": "GraphRAG-Benchmark",
-            "stars": 521,
+            "stars": 522,
             "topics": [
               "analysis",
               "benchmark",
@@ -701,11 +701,11 @@
             "id": 866513204,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T18:23:47Z",
-            "open_issues": 436,
+            "last_commit": "2026-11-11T20:09:14Z",
+            "open_issues": 434,
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 40641,
+            "stars": 40661,
             "topics": [
               "docling",
               "genai",
@@ -738,7 +738,7 @@
             "open_issues": 64,
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 36621,
+            "stars": 36629,
             "topics": [
               "gpt",
               "gpt-4",
@@ -763,11 +763,11 @@
             "id": 679343504,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T19:04:24Z",
-            "open_issues": 1120,
+            "last_commit": "2026-11-11T19:42:20Z",
+            "open_issues": 1116,
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 33221,
+            "stars": 33247,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -804,11 +804,11 @@
             "id": 840056306,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T09:35:23Z",
-            "open_issues": 558,
+            "last_commit": "2026-11-11T01:25:29Z",
+            "open_issues": 560,
             "owner": "getzep",
             "repo": "graphiti",
-            "stars": 32718,
+            "stars": 32754,
             "topics": [
               "agents",
               "graph",
@@ -834,7 +834,7 @@
             "open_issues": 125,
             "owner": "semantica-agi",
             "repo": "semantica",
-            "stars": 14522,
+            "stars": 14535,
             "topics": [
               "agent-memory",
               "ai",
@@ -872,11 +872,11 @@
             "id": 1003043071,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T20:21:46Z",
-            "open_issues": 469,
+            "last_commit": "2026-11-11T01:37:16Z",
+            "open_issues": 463,
             "owner": "vitali87",
             "repo": "code-graph-rag",
-            "stars": 5347,
+            "stars": 5350,
             "topics": [
               "ai",
               "ast",
@@ -918,7 +918,7 @@
             "open_issues": 84,
             "owner": "gusye1234",
             "repo": "nano-graphrag",
-            "stars": 4002,
+            "stars": 4003,
             "topics": [
               "gpt",
               "gpt-4o",
@@ -963,11 +963,11 @@
             "id": 996124831,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T14:31:22Z",
+            "last_commit": "2026-11-11T13:46:31Z",
             "open_issues": 14,
             "owner": "onestardao",
             "repo": "WFGY",
-            "stars": 1805,
+            "stars": 1806,
             "topics": [
               "ai-agents",
               "alignment",
@@ -1076,7 +1076,7 @@
             "id": 1051546963,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T03:01:51Z",
+            "last_commit": "2026-11-11T15:09:58Z",
             "open_issues": 2,
             "owner": "bibinprathap",
             "repo": "VeritasGraph",
@@ -1163,7 +1163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:32:23.206Z",
+    "last_updated": "2026-11-11T20:17:17.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation. ",
@@ -1175,7 +1175,7 @@
       "open_issues": 20,
       "owner": "DEEP-PolyU",
       "repo": "Awesome-GraphRAG",
-      "stars": 2687,
+      "stars": 2686,
       "topics": [
         "graphrag",
         "graphrag-paper",
