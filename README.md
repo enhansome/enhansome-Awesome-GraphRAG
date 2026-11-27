@@ -306,7 +306,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 To explore the applications of LLMs on graph tasks, we recommend the following repositories:
 
-* [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) ⭐ 2,450 | 🐛 7 | 📅 2025-11-05 by [Xiaoxin He](https://xiaoxinhe.github.io/) from NUS.
+* [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) ⭐ 2,449 | 🐛 7 | 📅 2025-11-05 by [Xiaoxin He](https://xiaoxinhe.github.io/) from NUS.
 * [Awesome-LLMs-in-Graph-tasks](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks) ⭐ 656 | 🐛 1 | 📅 2025-03-21 by [Yuhan Li](https://yhleeee.github.io/) from HKUST(GZ).
 * [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt) ⭐ 425 | 🐛 0 | 📅 2025-05-15, created by [Xixi Wu](https://wxxshirley.github.io/) from CUHK.
 
@@ -323,7 +323,7 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 | CWQ            | Multi-hop Reasoning       | [\[NAACL 2018\]](https://aclanthology.org/N18-1059/)                           | [\[TAU-NLP\]](https://www.tau-nlp.org/compwebq)                                                                                        |
 | MetaQA         | Multi-hop Reasoning       | [\[AAAI 2018\]](https://arXiv.org/abs/1709.04071)                              | [\[Github\]](https://github.com/yuyuz/MetaQA) ⭐ 105 \| 🐛 1 \| 📅 2021-10-10                                                           |
 | MetaQA-3       | Multi-hop Reasoning       | [\[AAAI 2018\]](https://arXiv.org/abs/1709.04071)                              | [\[Github\]](https://github.com/yuyuz/MetaQA) ⭐ 105 \| 🐛 1 \| 📅 2021-10-10                                                           |
-| CURD           | Large-scale Complex QA    | [\[arXiv 2024\]](https://arXiv.org/abs/2401.17043)                             | [\[Github\]](https://github.com/IAAR-Shanghai/CRUD_RAG) ⭐ 421 \| 🐛 9 \| 🌐 Python \| 📅 2025-05-20                                    |
+| CURD           | Large-scale Complex QA    | [\[arXiv 2024\]](https://arXiv.org/abs/2401.17043)                             | [\[Github\]](https://github.com/IAAR-Shanghai/CRUD_RAG) ⭐ 420 \| 🐛 9 \| 🌐 Python \| 📅 2025-05-20                                    |
 | KQAPro         | Large-scale Complex QA    | [\[ACL 2022\]](https://aclanthology.org/2022.acl-long.422/)                    | [\[Github\]](https://github.com/shijx12/KQAPro_Baselines) ⭐ 139 \| 🐛 6 \| 🌐 Python \| 📅 2024-07-15                                  |
 | LC-QuAD v2     | Large-scale Complex QA    | [\[ISWC 2019\]](https://link.springer.com/chapter/10.1007/978-3-030-30796-7_5) | [\[figshare\]](https://figshare.com/projects/LCQuAD_2_0/62270)                                                                         |
 | LC-QuAD        | Large-scale Complex QA    | [\[ISWC 2017\]](https://dl.acm.org/doi/10.1007/978-3-319-68204-4_22)           | [\[Github\]](https://github.com/AskNowQA/LC-QuAD) ⭐ 98 \| 🐛 13 \| 📅 2023-09-05                                                       |
@@ -336,17 +336,17 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 
 # 💻 Open-source Project
 
-* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/HKUDS/LightRAG) ⭐ 40,890 | 🐛 297 | 🌐 Python | 📅 2026-11-26 LightRAG: Simple and Fast Retrieval-Augmented Generation
-* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/microsoft/graphrag.git) ⭐ 36,762 | 🐛 60 | 🌐 Python | 📅 2026-11-25 Microsoft-GraphRAG: A modular graph-based Retrieval-Augmented Generation (RAG) system
-* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/topoteretes/cognee) ⭐ 33,652 | 🐛 1,118 | 🌐 Python | 📅 2026-11-26 Cognee: Open-source memory engine that turns data into knowledge graphs via an ECL pipeline, combining graph and vector retrieval for AI agents.
-* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/getzep/graphiti) ⭐ 33,118 | 🐛 586 | 🌐 Python | 📅 2026-11-26 Graphiti: Build Real-Time Knowledge Graphs for AI Agents.
-* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Hawksight-AI/semantica) ⭐ 14,832 | 🐛 140 | 🌐 Python | 📅 2026-11-26 Semantica: an open-source, production-ready semantic layer and GraphRAG framework that sits between raw corpora and LLMs.
-* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vitali87/code-graph-rag) ⭐ 5,449 | 🐛 306 | 🌐 Python | 📅 2026-11-26 Code-Graph-RAG: A graph-based RAG system that analyzes multi-language codebases using Tree-sitter, builds knowledge graphs, and enables natural language querying and editing via MCP server.
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/HKUDS/LightRAG) ⭐ 40,909 | 🐛 294 | 🌐 Python | 📅 2026-11-27 LightRAG: Simple and Fast Retrieval-Augmented Generation
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/microsoft/graphrag.git) ⭐ 36,767 | 🐛 64 | 🌐 Python | 📅 2026-11-27 Microsoft-GraphRAG: A modular graph-based Retrieval-Augmented Generation (RAG) system
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/topoteretes/cognee) ⭐ 33,675 | 🐛 1,120 | 🌐 Python | 📅 2026-11-27 Cognee: Open-source memory engine that turns data into knowledge graphs via an ECL pipeline, combining graph and vector retrieval for AI agents.
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/getzep/graphiti) ⭐ 33,144 | 🐛 586 | 🌐 Python | 📅 2026-11-27 Graphiti: Build Real-Time Knowledge Graphs for AI Agents.
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Hawksight-AI/semantica) ⭐ 14,872 | 🐛 143 | 🌐 Python | 📅 2026-11-26 Semantica: an open-source, production-ready semantic layer and GraphRAG framework that sits between raw corpora and LLMs.
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vitali87/code-graph-rag) ⭐ 5,451 | 🐛 342 | 🌐 Python | 📅 2026-11-27 Code-Graph-RAG: A graph-based RAG system that analyzes multi-language codebases using Tree-sitter, builds knowledge graphs, and enables natural language querying and editing via MCP server.
 * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gusye1234/nano-graphrag) ⭐ 4,014 | 🐛 84 | 🌐 Python | 📅 2026-01-27 Nano-GraphRAG: A simple, easy-to-hack GraphRAG implementation
 * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/circlemind-ai/fast-graphrag) ⭐ 3,974 | 🐛 37 | 🌐 Python | 📅 2025-11-01 Fast GraphRAG: RAG that intelligently adapts to your use case, data, and queries
-* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/onestardao/WFGY) ⭐ 1,804 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-11-26 WFGY Problem Map: a specialized toolkit that defines 16 recurring failure modes that show up in RAG and LLM pipelines.
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/onestardao/WFGY) ⭐ 1,804 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-11-27 WFGY Problem Map: a specialized toolkit that defines 16 recurring failure modes that show up in RAG and LLM pipelines.
 * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JayLZhou/GraphRAG) ⭐ 1,543 | 🐛 23 | 🌐 Python | 📅 2025-07-01 DIGIMON: A unified and modular graph-based RAG framework
-* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/apecloud/ApeRAG) ⭐ 1,322 | 🐛 35 | 🌐 Python | 📅 2026-10-29 ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/apecloud/ApeRAG) ⭐ 1,323 | 🐛 35 | 🌐 Python | 📅 2026-10-29 ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment
 * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/FalkorDB/GraphRAG-SDK) ⭐ 1,038 | 🐛 49 | 🌐 Python | 📅 2026-11-25 GraphRAG-SDK: a specialized toolkit for building GraphRAG systems.
 * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/bibinprathap/VeritasGraph) ⭐ 326 | 🐛 2 | 🌐 Python | 📅 2026-11-24 Graph RAG pipeline that runs locally with ollama and has full source attribution
 * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/chensyCN/Agentic-RAG) ⭐ 242 | 🐛 1 | 🌐 Python | 📅 2026-07-19 Agentic-RAG: A clean and extensible agentic RAG system.
@@ -368,4 +368,4 @@ If you find this survey helpful, please cite our paper:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
